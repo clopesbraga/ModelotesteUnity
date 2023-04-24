@@ -1,0 +1,9 @@
+# Query: OmniSharp
+# ContextLines: 1
+
+1 result - 1 file
+
+.vscode/settings.json:
+  1  {
+  2:     "omnisharp.projectLoadTimeout": 60
+  3  }

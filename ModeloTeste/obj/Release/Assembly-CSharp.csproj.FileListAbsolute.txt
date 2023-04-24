@@ -1,0 +1,3 @@
+/home/cleiton/Workspace/UnityProjects/ModeloTeste/obj/Release/Assembly-CSharp.csprojAssemblyReference.cache
+/home/cleiton/Workspace/UnityProjects/ModeloTeste/obj/Release/Assembly-CSharp.dll
+/home/cleiton/Workspace/UnityProjects/ModeloTeste/obj/Release/Assembly-CSharp.pdb
